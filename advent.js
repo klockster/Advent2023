@@ -5,7 +5,7 @@ let assert = (assertion, message) => {
     }
 };
 
-let today = 11;
+let today = 12;
 let chosenDay = today;
 
 let loadDay = (() => {
